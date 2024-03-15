@@ -1,0 +1,11 @@
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\bin\Debug\SimpleCalculatorGUI.exe.config
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\bin\Debug\SimpleCalculatorGUI.exe
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\bin\Debug\SimpleCalculatorGUI.pdb
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.csproj.AssemblyReference.cache
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.csproj.SuggestedBindingRedirects.cache
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.Calculator.resources
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.Properties.Resources.resources
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.csproj.GenerateResource.cache
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.csproj.CoreCompileInputs.cache
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.exe
+D:\AIUB\10th Semester\OBJECT ORIENTED PROGRAMMING 2 [H]\Final\Assessment\Lab task Calculator\SimpleCalculatorGUI\SimpleCalculatorGUI\obj\Debug\SimpleCalculatorGUI.pdb
